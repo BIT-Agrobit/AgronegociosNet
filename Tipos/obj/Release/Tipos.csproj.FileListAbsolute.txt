@@ -1,0 +1,10 @@
+C:\inetpub\wwwroot\Agronegocios_Net\Tipos\bin\Release\Tipos.dll
+C:\inetpub\wwwroot\Agronegocios_Net\Tipos\bin\Release\Tipos.pdb
+C:\inetpub\wwwroot\Agronegocios_Net\Tipos\obj\Release\Tipos.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\Agronegocios_Net\Tipos\obj\Release\Tipos.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Agronegocios_Net\Tipos\obj\Release\Tipos.dll
+C:\inetpub\wwwroot\Agronegocios_Net\Tipos\obj\Release\Tipos.pdb
+C:\inetpub\wwwroot\Agronegocios.Net\Tipos\bin\Release\Tipos.dll
+C:\inetpub\wwwroot\Agronegocios.Net\Tipos\bin\Release\Tipos.pdb
+C:\inetpub\wwwroot\Agronegocios.Net\Tipos\obj\Release\Tipos.dll
+C:\inetpub\wwwroot\Agronegocios.Net\Tipos\obj\Release\Tipos.pdb
