@@ -1,2 +1,0 @@
-# AgronegociosNet
-servicios soap saldos 
